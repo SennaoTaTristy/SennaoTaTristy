@@ -46,6 +46,6 @@ Sou um profissional de TI em constante evolução, com foco estratégico em **Ar
 ### Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eudardo-benini/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosebenini@gail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosebenini@gmail.com)
 
 *"Construindo o futuro da tecnologia sobre bases seguras e escaláveis."*
