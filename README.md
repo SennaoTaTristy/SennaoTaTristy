@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/joaomatosdev"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-benini/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="#"><img src="https://img.shields.io/badge/S--RANK_RESUME-🔴-red?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Curriculo"></a>
 </div>
